@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8eb11e8-43aa-4aff-9fd7-bf171821e09d" name="Changes" comment="Commit_3_Homework2">
-      <change afterPath="$PROJECT_DIR$/work_json/main_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_json/main_xml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_json/newsafr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_json/newsafr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8eb11e8-43aa-4aff-9fd7-bf171821e09d" name="Changes" comment="Commit4_Homework3.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -257,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779987420089</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit4_Homework3.2">
+      <option name="closed" value="true" />
+      <created>1780228915455</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1780228915455</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +281,8 @@
     <MESSAGE value="Commit_1_Homework2" />
     <MESSAGE value="Commit_2_Homework2" />
     <MESSAGE value="Commit_3_Homework2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit_3_Homework2" />
+    <MESSAGE value="Commit4_Homework3.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit4_Homework3.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
